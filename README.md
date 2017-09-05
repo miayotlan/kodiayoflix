@@ -1,2 +1,0 @@
-# kodiayoflix
-personal build
